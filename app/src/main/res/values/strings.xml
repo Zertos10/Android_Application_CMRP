@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Article app</string>
+    <string name="name_article">Nom de l\'article</string>
+    <string name="descp_article">Description article</string>
+
+    <string name="bottom_navigation_menu_landscape">Internet</string>
+    <string name="bottom_navigation_menu_logos">Map</string>
+    <string name="bottom_navigation_menu_android">Contact</string>
+    <string name="bottom_navigation_menu_accueil">Accueil</string>
+    <string name="bottom_navigation_menu_inscription">Inscription</string>
+
+</resources>
